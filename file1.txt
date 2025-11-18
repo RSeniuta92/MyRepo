@@ -1,5 +1,0 @@
-This is my first file
-New line in file1.txt
-Another line
-VS Code Line
-Kali VS Code Line
